@@ -7,7 +7,7 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://tonystark202609.github.io
-baseurl                  : "/LJT-Homepage"
+baseurl                  : ""
 repository               : "tonystark202609/LJT-Homepage"
 author:
   avatar           : ""
